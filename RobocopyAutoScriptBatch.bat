@@ -50,7 +50,4 @@ echo "____Thanks to the powerful magic of magicians, the log was saved____"
 pause
 
 
-::set link1=C:\Users\Hito\Desktop\1 
-::set link2=C:\Users\Hito\Desktop\2
-::set logLink=/log:C:\Users\Hito\Desktop\log\%dd%-%mo%-%yy%_(%hr%h%mi%m%se%s).log
-::robocopy C:\Users\Hito\Desktop\1 C:\Users\Hito\Desktop\2 /E /R:5 /W:1 /MT:8 /log:C:\Users\Hito\Desktop\log\%dd%-%mo%-%yy%_(%hr%h%mi%m%se%s).log
+::vinhphuc931998@gmail.com
